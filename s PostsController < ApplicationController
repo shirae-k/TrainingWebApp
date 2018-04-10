@@ -1,0 +1,53 @@
+commit 6e8569fbe1d697a263708e25a58277afe89aa358
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Tue Apr 10 06:08:22 2018 +0000
+
+    編集ページを作る
+
+commit baae75aa7d5f7959071a238e66e01f7ddd817d36
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Tue Apr 10 04:34:02 2018 +0000
+
+    show作った
+
+commit 2d55ccd7aa1b0947eb09306cf9fde8e4febff3b4
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Tue Apr 10 03:11:08 2018 +0000
+
+    show作った
+
+commit 3d1cbfbb5e70fa81fd7e156954d2dbbe69459acc
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Tue Apr 10 02:15:18 2018 +0000
+
+    link to~まで終わり、投稿の並べ替えから
+
+commit 216e982e248ea36b08305f3964aeec3ab960c9b1
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Mon Apr 9 08:30:19 2018 +0000
+
+    画像探し終わり
+
+commit cd31c71f653412524f8c397912d29f4704cb24d3
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Mon Apr 9 08:00:29 2018 +0000
+
+    about追加
+
+commit 3b90e952ec4d86797ace918ec841a4a3b92d4d73
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Mon Apr 9 07:39:15 2018 +0000
+
+    修正
+
+commit 219f8facb88d471b38a37b9cfeb1205207cafc2e
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Mon Apr 9 07:10:02 2018 +0000
+
+    ファイル追加（tophtml）
+
+commit b97a4c99376d2b0bc05938985a5d108a9115f576
+Author: vagrant <vagrant@localhost.localdomain>
+Date:   Mon Apr 9 04:38:54 2018 +0000
+
+    新規プロジェクト作成
