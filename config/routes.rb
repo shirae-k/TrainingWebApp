@@ -1,12 +1,16 @@
 Rails.application.routes.draw do
+  # createアクションに対応するルーティングを追加してください
+  post "likes/:post_id/create" => "likes#create"
 
-
+  post "users/:id/update" => "users#update"
   get "users/:id/edit" => "users#edit"
-   post  "users/:id/update" => "users#update"
   post "users/create" => "users#create"
   get "signup" => "users#new"
   get "users/index" => "users#index"
   get "users/:id" => "users#show"
+  post "login" => "users#login"
+  post "logout" => "users#logout"
+  get "login" => "users#login_form"
 
   get "posts/index" => "posts#index"
   get "posts/new" => "posts#new"
