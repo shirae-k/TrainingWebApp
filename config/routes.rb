@@ -11,7 +11,6 @@ Rails.application.routes.draw do
   post "login" => "users#login"
   post "logout" => "users#logout"
   get "login" => "users#login_form"
-  # "users/:id/likes"に対応するルーティングを追加してください
   get "users/:id/likes" => "users#likes"
 
   get "posts/index" => "posts#index"
